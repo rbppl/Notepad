@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="Header">Заголовок</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+</resources>
